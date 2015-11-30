@@ -1,0 +1,10 @@
+Package: oneway
+Type: Package
+Title: One-Way S3 Implementation
+Version: 0.1
+Date: 2015-09-22
+Author: Xueli Gao
+Maintainer: Xueli Gao <xugao@mix.wvu.edu>
+Description: This is a one way package
+License: GPL-2
+LazyData: TRUE
